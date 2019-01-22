@@ -1,0 +1,60 @@
+body {
+  width: 90%;
+  align-items: center;
+  text-align: center;
+  align-content: center;
+  font-family: monospace;
+  padding: 20px;
+  background: #f1f1f1;
+}
+header {
+  padding: 30px;
+  text-align: center;
+  background: white;
+      }
+#content {
+  align-content: center;
+  background: white;
+  border-style: solid;
+
+}
+#sidebar {
+  float: right;
+  width: 24%;
+  background: white;
+  border-style: solid;
+}
+
+.card {
+  align-items: center;
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-top: 20px;
+}
+table {
+  border-collapse: separate;
+      border-spacing: 0 1em;
+    padding: 20px;
+   align-content: center;
+   text-align: center;
+   border:1 solid black;
+   width: 100%;
+   align-self: center;
+}
+
+form {
+  text-align: left;
+}
+form input{
+  width: 95%;
+  align-items: center;
+}
+#chalt {
+  border-width: thick;
+  border-color: black;
+  border-style: solid;
+  table-layout: auto;
+}
+#chalt tr{
+
+}
